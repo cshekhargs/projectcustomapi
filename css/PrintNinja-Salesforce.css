@@ -1,0 +1,104 @@
+.textbox { 
+   -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border-color: #7c7c7c #c3c3c3 #ddd;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 0 #c3c3c3 inset;
+    box-sizing: border-box;
+    margin: 0 0 20px;
+    padding:7px;
+    width: 272px;
+} 
+ 
+.textbox:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+} 
+.titleLab{ 
+   color:#2F2F2F;
+   font:15px'gibsonregular';
+}
+.jobTitlebg{
+background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(199, 199, 199) 0%, rgb(247, 247, 247) 100%) repeat scroll 0 0;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px !important;
+ 
+}
+.formMainctr{border: 1px solid #ccc;
+    margin: 0 auto;
+    width:520px;}
+
+
+	.submbtn{
+    background: #dd1f27;
+    border: medium none;
+    color: #fff;
+    font: 32px/32px 'gibsonsemibold', Arial, Helvetica, sans-serif;
+    width: 272px;
+    height: 44px;
+	}
+
+	
+fieldset div input,
+fieldset div textarea,
+fieldset div select {
+ line-height: 1;
+ box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.16), 0px 2px 10px 0px rgba(0, 0, 0,
+ 0.12) !important;
+}
+.textfldBox{
+margin: 0 123px;
+}
+.textfldBox1{
+margin: 0 56px;
+}
+.titleMainsales span{
+font: 18px/18px "gibsonsemibold",Arial,Helvetica,sans-serif;
+color:#2F2F2F;
+}
+.titleTwosame{
+font: 18px/26px "gibsonsemibold",Arial,Helvetica,sans-serif;
+color:#2F2F2F;
+}
+.titleCheckbox{
+font-family: "gibsonregular",Arial,Helvetica,sans-serif;
+color:#2F2F2F;
+}
+.nextBtnsm{
+    background: #dd1f27;
+    border: medium none;
+    color: #fff;
+    margin: 17px 0 17px 0;
+    padding: 5.5px 22px;
+    font: 16px 'gibsonsemibold', Arial, Helvetica, sans-serif;
+    width: 100px;
+
+}
+.errjobnumer{
+    width: 414px;
+    font: 14px 'gibsonregular';
+    color: #DD1F27;
+    margin-left: 65px;
+    margin-top: -30px;
+    margin-bottom: 50px;
+
+}
+input::placeholder {
+   font:12px'gibsonregular';
+   ::-webkit-input-placeholder { color:#2F2F2F; }
+::-moz-placeholder { color:#2F2F2F; } /* firefox 19+ */
+:-ms-input-placeholder { color:#2F2F2F; } /* ie */
+input:-moz-placeholder { color:#2F2F2F; }
+} 
+
+

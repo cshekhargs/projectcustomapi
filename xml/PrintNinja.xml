@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<field-list>
+ <field>
+  <tag>Job Number</tag>
+  <type>String</type>
+  <required>false</required>
+  <value>PRN1706-23830</value>
+ </field>
+ <field>
+  <tag>Page Count</tag>
+  <type>String</type>
+  <required>false</required>
+  <value>144.0</value>
+ </field>
+ <field>
+  <tag>Page Width</tag>
+  <type>String</type>
+  <required>false</required>
+  <value>6.625</value>
+ </field>
+ <field>
+  <tag>Page Height</tag>
+  <type>String</type>
+  <required>false</required>
+  <value>10.25</value>
+ </field>
+ <field>
+  <tag>Printing Color</tag>
+  <type>String</type>
+  <required>false</required>
+  <value></value>
+ </field>
+</field-list>
