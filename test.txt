@@ -1,5 +1,9 @@
 Hi chandrashekhar,
 
 I have did the some changes into the file. As shown this below -
+<<<<<<< HEAD
 
 This is change from bitbucket
+=======
+I am ready to do the some teat changes from git text file.
+>>>>>>> 1f6773ea5688527fa277e170436d3818f8b307d8
